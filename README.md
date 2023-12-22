@@ -1,6 +1,6 @@
 [![MasterHead](https://www.mindgenius.com/wp-content/uploads/2021/10/v3a-NEW-GEAR-ANIMATION-hm-pg-3-1.gif)](https://github.com/NP150296)
 <h1 align="center">Hi 👋, I'm NAVEEN</h1>
-<h3 align="center">PROJECT MANAGER | MBA GRADUATE | ENTREPRENEURIAL PROPRIETOR </h3>
+<h3 align="center">PROJECT MANAGER | MBA GRADUATE | ENTREPRENEURIAL PROPRIETOR -ENGINEERING SOLUTION</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1358/1*5YZ0iRIg34qXgH5ja5nNbA.gif">
 
 
