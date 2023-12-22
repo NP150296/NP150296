@@ -1,13 +1,13 @@
 [![MasterHead](https://www.mindgenius.com/wp-content/uploads/2021/10/v3a-NEW-GEAR-ANIMATION-hm-pg-3-1.gif)](https://github.com/NP150296)
 <h1 align="center">Hi 👋, I'm NAVEEN</h1>
-<h3 align="center">PROJECT MANAGER | MBA GRADUATE | Entrepreneurial Proprietor </h3>
-<img align="right" alt="Coding" width="250" src="https://media.tenor.com/27z-u12LcDwAAAAC/testing-automation.gif">
+<h3 align="center">PROJECT MANAGER | MBA GRADUATE | ENTREPRENEURIAL PROPRIETOR </h3>
+<img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1358/1*5YZ0iRIg34qXgH5ja5nNbA.gif">
 
 
 
-- 🌱 I’m currently learning **AI/ML | Greener Packaging Solution**
+- 🌱 I’m currently learning **AI/ML**
 
-- 💬 Ask me about **FFS MACHINERY | SP MACHINERY | AUTOMATION**
+- 💬 Ask me about **PROJECT MANAGEMENT | SP MACHINERY | AUTOMATION**
 
 - 📫 How to reach me **naveenprabu1502@gmail.com**
 
