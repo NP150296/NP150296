@@ -1,6 +1,6 @@
-[![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)](https://NP150296.io)
+[![MasterHead](https://www.mindgenius.com/wp-content/uploads/2021/10/v3a-NEW-GEAR-ANIMATION-hm-pg-3-1.gif)](https://github.com/NP150296)
 <h1 align="center">Hi 👋, I'm NAVEEN</h1>
-<h3 align="center">MBA Graduate | Automation Engineer | Entrepreneurial Proprietor - Engineering Solutions</h3>
+<h3 align="center">PROJECT MANAGER | MBA GRADUATE | Entrepreneurial Proprietor </h3>
 <img align="right" alt="Coding" width="250" src="https://media.tenor.com/27z-u12LcDwAAAAC/testing-automation.gif">
 
 
